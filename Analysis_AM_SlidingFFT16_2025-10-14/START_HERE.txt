@@ -1,0 +1,5 @@
+Как читать этот анализ:
+1) Прочтите EXECUTIVE_SUMMARY_RU.md — краткая суть.
+2) Технические детали — TECHNICAL_ANALYSIS.md.
+3) Практика для исполнителя — IMPLEMENTATION_GUIDE.md.
+4) Ссылки на исходные материалы — README.md.
