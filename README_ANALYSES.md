@@ -10,6 +10,7 @@
 - [FFT Optimization Analysis](GPU_Optimization/OPTIMIZATION_GUIDE.md) - Анализ производительности FFT32 с occupancy sweep
 - [Overlapping FFT Analysis](FFT_Research/OVERLAPPING_FFT_ANALYSIS.md) - Анализ оптимизации FFT с перекрытием окон
 - [Correlation Architecture Analysis](Correlation_Algorithms/CORRELATION_ARCHITECTURE_ANALYSIS.md) - Архитектурный анализ алгоритмов корреляции
+- [AM Sliding FFT16 Analysis](Analysis_AM_SlidingFFT16_2025-10-14/) - Анализ скользящего FFT16 с шагом=2 и fftshift
 
 ### 🔄 В процессе
 - *Пока нет активных анализов*
@@ -25,6 +26,7 @@
 
 ### 🔍 FFT Research  
 - [Overlapping FFT Analysis](FFT_Research/OVERLAPPING_FFT_ANALYSIS.md) - 2024
+- [AM Sliding FFT16 Analysis](Analysis_AM_SlidingFFT16_2025-10-14/) - 2025-10-14
 - *Дополнительные исследования FFT*
 
 ### 🔗 Correlation Algorithms
@@ -33,8 +35,8 @@
 
 ## 📊 Статистика
 
-- **Всего анализов**: 3
-- **Завершено**: 3
+- **Всего анализов**: 4
+- **Завершено**: 4
 - **В процессе**: 0
 - **Планируется**: 0
 
@@ -53,4 +55,4 @@
 ---
 
 *Обновлено: 2025-10-14*  
-*Версия: 1.0*
+*Версия: 1.1*
